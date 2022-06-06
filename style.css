@@ -1,0 +1,92 @@
+html, body {
+    font-family: Poppins;
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden; 
+}
+
+
+
+.topnav {
+  position: static;
+  background-color: #3D84B8;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  height: 13%;
+  width: 100%;
+  padding:10px;
+  font-weight: bold;  
+}
+
+
+.content2 {
+  background-color: #04019A;
+  padding: 10px;
+  height: 400px; /* Should be removed. Only for demonstration */
+  width:100%;
+}
+
+.btn {
+  color: white;
+  background-color: #3D84B8;
+  border-color: #3D84B8;
+  width: 65%;
+  display: inline-block;
+  vertical-align: middle;
+  padding: 150px .75rem;
+  font-size: 25px;
+  height: 100px;
+  cursor: pointer;
+  border-radius: 30px;
+  margin-top: 2%;
+  margin-left: 17%;
+  font-family:'Poppins';
+}
+
+
+.content {
+  background-color: #F0EBCD;
+  padding: 10px;
+  width:100%;
+  position: relative;
+}
+
+h1, h6{
+  text-align: center;
+}
+
+h2 {
+    color: #04019A;
+    position: relative;
+    top: 0px;
+    left: 10.5%;
+    font-family: 'Poppins';
+    font-weight: Italic;
+    font-size: 36px;
+    opacity: 1;
+    text-align: left;
+    margin-right: 10px;
+}
+
+p {
+  left: 10%;
+  right: 5%;
+  position: relative;
+  padding: 10px;
+  width: 70%;
+margin-right: 0;
+}
+
+
+.footer {
+  background-color: #04019A;
+  color: white;
+  padding: 10px;
+  width:100%;
+  text-align: center;
+}
+
+
